@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:10.727762
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經疏私記
 #+PROPERTY: CBETA_ID X37n0660
 #+PROPERTY: ID KR6g0017
@@ -12,7 +12,7 @@
 
  涅槃疏卷第三私記¶
 
-釋哀歎品第三¶
+* 釋哀歎品第三¶
 
 廣而言之者。四悉不同。故云廣也。¶
 
